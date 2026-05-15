@@ -1,0 +1,36 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+.venv/
+venv/
+.env
+
+# Private / large data
+data/
+datasets/
+*.zip
+*.tar
+*.tar.gz
+*.mp4
+*.avi
+
+# Model/cache/checkpoints
+.cache/
+hf_cache/
+models/
+checkpoints/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Large runtime artifacts
+wandb/
+logs/
+
+# Local/system files
+.DS_Store
+Thumbs.db

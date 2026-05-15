@@ -1,0 +1,12 @@
+transformers
+accelerate
+pillow
+einops
+timm
+sentencepiece
+protobuf
+pandas
+tqdm
+openpyxl
+huggingface_hub
+safetensors

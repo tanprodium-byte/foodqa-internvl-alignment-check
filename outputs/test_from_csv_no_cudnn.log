@@ -1,0 +1,23 @@
+/venv/main/lib/python3.12/site-packages/torch/backends/__init__.py:46: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  self.setter(val)
+Torch: 2.9.0+cu126
+CUDA: True
+GPU: NVIDIA RTX A4000
+
+Image: data/images/1.jpg
+Question: Món ăn trong hình có thể được gọi là gì?
+Ground truth: Có thể là bánh cuốn hoặc bánh ướt, dựa trên lớp bánh mỏng trắng mềm được cuốn lại với nhân bên trong.
+
+Loading tokenizer...
+Loading model...
+FlashAttention2 is not installed.
+
+Running inference...
+[W515 17:35:48.855543079 NNPACK.cpp:56] Could not initialize NNPACK! Reason: Unsupported hardware.
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+
+=== MODEL ANSWER ===
+Món ăn trong hình có thể được gọi là 'bún thịt nướng'. Đây là một món ăn phổ biến ở Việt Nam, thường gồm bún, thịt nướng, rau sống và nước chấm.
+
+=== GROUND TRUTH ===
+Có thể là bánh cuốn hoặc bánh ướt, dựa trên lớp bánh mỏng trắng mềm được cuốn lại với nhân bên trong.

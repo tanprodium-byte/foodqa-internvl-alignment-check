@@ -1,0 +1,276 @@
+CSV shape: (97034, 4)
+Columns: ['id', 'image_id', 'question', 'answer']
+
+=== First 30 unique image_id with first QA ===
+--------------------------------------------------------------------------------
+image_id: 1
+image_path: data/images/1.jpg
+image_exists: True
+question: Món ăn trong hình có thể được gọi là gì?
+answer: Có thể là bánh cuốn hoặc bánh ướt, dựa trên lớp bánh mỏng trắng mềm được cuốn lại với nhân bên trong.
+--------------------------------------------------------------------------------
+image_id: 2
+image_path: data/images/2.jpg
+image_exists: True
+question: Món ăn trong hình có thể được gọi là gì?
+answer: Đây có thể là món bún bò Huế hoặc một loại bún nước có nước dùng đậm màu, với các thành phần như thịt bò, chả, và rau sống đi kèm.
+--------------------------------------------------------------------------------
+image_id: 3
+image_path: data/images/3.jpg
+image_exists: True
+question: Món ăn trong hình có thể được gọi là gì?
+answer: Có thể là bánh cuốn, với lớp bánh mỏng trắng cuộn lại, bên trong có nhân, được bày trên đĩa.
+--------------------------------------------------------------------------------
+image_id: 4
+image_path: data/images/4.jpg
+image_exists: True
+question: Món ăn trong hình có thể được gọi là gì?
+answer: Đây có thể là món bún bò Huế hoặc một loại bún nước có nước dùng đậm màu, với các thành phần như thịt bò, giò heo, và rau sống.
+--------------------------------------------------------------------------------
+image_id: 5
+image_path: data/images/5.jpg
+image_exists: True
+question: Món ăn trong hình có thể được gọi là gì?
+answer: Đây có thể là món bún bò Huế hoặc một loại bún nước với nước dùng đậm màu, thịt bò và rau sống kèm theo.
+--------------------------------------------------------------------------------
+image_id: 6
+image_path: data/images/6.jpg
+image_exists: True
+question: Món ăn trong hình có thể được gọi là gì?
+answer: Đây có thể là món bún bò Huế hoặc một loại bún nước với nước dùng có màu đỏ cam đặc trưng, kèm thịt bò và các loại rau ăn kèm.
+--------------------------------------------------------------------------------
+image_id: 7
+image_path: data/images/7.jpg
+image_exists: True
+question: Món ăn trong hình có thể được gọi là gì?
+answer: Có thể là bánh bò nướng hoặc một loại bánh nướng truyền thống Việt Nam, nhận diện qua bề mặt vàng nâu và cấu trúc rỗ xốp đặc trưng bên trong.
+--------------------------------------------------------------------------------
+image_id: 8
+image_path: data/images/8.jpg
+image_exists: True
+question: Món ăn trong hình có thể được gọi là gì?
+answer: Đây có thể là món bún bò Huế hoặc một loại bún nước có nước dùng đậm màu, với thịt bò và các loại rau ăn kèm.
+--------------------------------------------------------------------------------
+image_id: 9
+image_path: data/images/9.jpg
+image_exists: True
+question: Món ăn trong hình có tên gọi phổ biến là gì?
+answer: Đây có thể là món bún bò Huế hoặc một loại bún nước có nước dùng đậm màu, với các thành phần đặc trưng như bún, thịt bò, và rau sống kèm theo.
+--------------------------------------------------------------------------------
+image_id: 10
+image_path: data/images/10.jpg
+image_exists: True
+question: Món ăn trong hình có thể được gọi là gì?
+answer: Đây có thể là món bún bò Huế, dựa trên nước dùng màu đỏ cam đặc trưng, sợi bún to, và các thành phần thịt bò, giò heo nhìn thấy trong tô.
+--------------------------------------------------------------------------------
+image_id: 11
+image_path: data/images/11.jpg
+image_exists: True
+question: Món ăn trong hình có thể được gọi là gì?
+answer: Có thể là bánh cuốn, với lớp bột mỏng trắng cuộn lại, bên trong có nhân thịt, ăn kèm nước chấm và rau thơm.
+--------------------------------------------------------------------------------
+image_id: 12
+image_path: data/images/12.jpg
+image_exists: True
+question: Món ăn trong hình có thể được gọi là gì?
+answer: Có thể là bánh cuốn, với lớp bột mỏng trắng cuộn lại, bên trên rắc hành phi và có nước chấm đi kèm.
+--------------------------------------------------------------------------------
+image_id: 13
+image_path: data/images/13.jpg
+image_exists: True
+question: Món ăn này có thể được gọi là gì?
+answer: Đây có thể là món bún bò Huế, dựa trên nước dùng có màu đỏ cam đặc trưng, sợi bún to, và các thành phần thịt bò nhìn thấy trong tô.
+--------------------------------------------------------------------------------
+image_id: 14
+image_path: data/images/14.jpg
+image_exists: True
+question: Món ăn trong hình có tên gọi phổ biến là gì?
+answer: Đây có thể là món bún bò Huế hoặc một loại bún nước có nước dùng đậm màu, với các thành phần như thịt bò, giò heo, và rau sống.
+--------------------------------------------------------------------------------
+image_id: 15
+image_path: data/images/15.jpg
+image_exists: True
+question: Món ăn trong hình có thể được gọi là gì?
+answer: Đây có thể là món bún bò Huế hoặc một loại bún nước có nước dùng đậm màu, với các thành phần như thịt bò, chả, rau sống và bún.
+--------------------------------------------------------------------------------
+image_id: 16
+image_path: data/images/16.jpg
+image_exists: True
+question: Món ăn trong hình có tên gọi phổ biến là gì?
+answer: Đây có thể là món bún bò Huế hoặc một loại bún nước có nước dùng đậm màu, với các thành phần như thịt bò, rau sống và bún.
+--------------------------------------------------------------------------------
+image_id: 17
+image_path: data/images/17.jpg
+image_exists: True
+question: Món ăn trong hình có thể được gọi là gì?
+answer: Đây có thể là món bún bò Huế hoặc một loại bún nước có nước dùng đậm màu, với các thành phần như thịt bò, chả, và rau sống.
+--------------------------------------------------------------------------------
+image_id: 18
+image_path: data/images/18.jpg
+image_exists: True
+question: Món ăn trong hình có thể được gọi là gì?
+answer: Đây có thể là món bún bò Huế hoặc một loại bún nước có nước dùng đậm màu, với các lát thịt bò và rau sống kèm theo.
+--------------------------------------------------------------------------------
+image_id: 19
+image_path: data/images/19.jpg
+image_exists: True
+question: Món ăn trong hình có thể được gọi là gì?
+answer: Đây có thể là món bún bò Huế, dựa trên nước dùng có màu đỏ cam đặc trưng, sợi bún to, và các loại thịt bò, giò heo nhìn thấy trong tô.
+--------------------------------------------------------------------------------
+image_id: 20
+image_path: data/images/20.jpg
+image_exists: True
+question: Món ăn trong hình có thể được gọi là gì?
+answer: Có thể là bánh cuốn, với lớp bánh mỏng trắng mềm được cuốn lại, bày trên đĩa kèm rau sống và nước chấm.
+--------------------------------------------------------------------------------
+image_id: 21
+image_path: data/images/21.jpg
+image_exists: True
+question: Món ăn trong hình có thể được gọi là gì?
+answer: Đây có thể là món bún riêu cua, nhận diện qua nước dùng màu đỏ cam đặc trưng từ gạch cua và cà chua, cùng với bún trắng và các loại topping phía trên.
+--------------------------------------------------------------------------------
+image_id: 22
+image_path: data/images/22.jpg
+image_exists: True
+question: Món ăn này có thể được gọi là gì?
+answer: Đây có thể là món cơm chiên (cơm rang) với các thành phần như trứng, rau và thịt trộn cùng cơm.
+--------------------------------------------------------------------------------
+image_id: 23
+image_path: data/images/23.jpg
+image_exists: True
+question: Món ăn trong hình có thể được gọi là gì?
+answer: Đây có thể là món bún bò Huế, dựa trên nước dùng đỏ đặc trưng, sợi bún to, và các thành phần thịt bò, chả cua nhìn thấy trong tô.
+--------------------------------------------------------------------------------
+image_id: 24
+image_path: data/images/24.jpg
+image_exists: True
+question: Món ăn trong hình có thể được gọi là gì?
+answer: Có thể là bánh cuốn hoặc bánh ướt, với lớp bánh mỏng trắng cuộn lại, bên trong có nhân thịt, ăn kèm rau sống và nước chấm.
+--------------------------------------------------------------------------------
+image_id: 25
+image_path: data/images/25.jpg
+image_exists: True
+question: Món ăn trong hình có thể được gọi là gì?
+answer: Có thể là bún bò Huế hoặc một loại bún nước có nước dùng đỏ đặc trưng, với thịt bò và các loại topping phong phú.
+--------------------------------------------------------------------------------
+image_id: 26
+image_path: data/images/26.jpg
+image_exists: True
+question: Món ăn trong hình có thể được gọi là gì?
+answer: Đây có thể là món bún bò Huế, dựa trên nước dùng có màu đỏ cam đặc trưng, sợi bún to, và các loại thịt bò, giò heo nhìn thấy trong tô.
+--------------------------------------------------------------------------------
+image_id: 27
+image_path: data/images/27.jpg
+image_exists: True
+question: Món ăn trong hình có thể được gọi là gì?
+answer: Đây có thể là món bún riêu cua, dựa trên nước dùng có màu đỏ cam đặc trưng và các thành phần nhìn thấy như bún, riêu cua, đậu phụ chiên và rau sống.
+--------------------------------------------------------------------------------
+image_id: 28
+image_path: data/images/28.jpg
+image_exists: True
+question: Món ăn trong hình có thể được gọi là gì?
+answer: Đây có thể là món bún bò Huế hoặc một loại bún nước có nước dùng đậm màu, với sợi bún trắng và các loại topping thịt bò.
+--------------------------------------------------------------------------------
+image_id: 29
+image_path: data/images/29.jpg
+image_exists: True
+question: Món ăn trong hình có tên gọi phổ biến là gì?
+answer: Đây có thể là món bún bò Huế, nhận diện qua nước dùng đỏ đặc trưng, sợi bún to, và các thành phần như thịt bò, chả cua, rau sống kèm theo.
+--------------------------------------------------------------------------------
+image_id: 30
+image_path: data/images/30.jpg
+image_exists: True
+question: Món ăn trong hình có thể được gọi là gì?
+answer: Có thể là bánh cuốn hoặc bánh ướt, dựa trên lớp bột mỏng, trắng, mềm được cuộn lại và bày trên đĩa.
+
+=== Search suspicious keywords in CSV answers ===
+
+Keyword: burger | hits: 72
+          id  ...                                             answer
+18751  18752  ...  Có thể là bánh mì kẹp thịt (burger) với phần n...
+18752  18753  ...  Thuộc nhóm đồ ăn nhanh (fast food), cụ thể là ...
+18753  18754  ...  B. Mỹ - Hamburger là món ăn nhanh có nguồn gốc...
+18758  18759  ...  Hamburger thường được xem là biểu tượng của vă...
+18760  18761  ...  Phần patty thịt và bánh mì (bun) là hai thành ...
+
+[5 rows x 4 columns]
+
+Keyword: hamburger | hits: 10
+          id  ...                                             answer
+18752  18753  ...  Thuộc nhóm đồ ăn nhanh (fast food), cụ thể là ...
+18753  18754  ...  B. Mỹ - Hamburger là món ăn nhanh có nguồn gốc...
+18758  18759  ...  Hamburger thường được xem là biểu tượng của vă...
+18772  18773  ...  Món trong ảnh có vẻ chính là một cheeseburger ...
+50253  50254  ...  Không, bánh dùng dạng ổ dài chứ không phải bán...
+
+[5 rows x 4 columns]
+
+Keyword: phở | hits: 3148
+      id  ...                                             answer
+22    23  ...  Giống ở lớp bánh bột gạo mỏng; khác ở chỗ phở ...
+51    52  ...  B. Khác ở loại sợi và phong cách nước dùng - C...
+82    83  ...  C. Giống lớp bánh, khác nhân và cách ăn - Cả h...
+93    94  ...  Món nước dạng bún hoặc phở, thuộc nhóm món chí...
+102  103  ...  Có thể thay bằng mì hoặc phở, nhưng sợi bún tr...
+
+[5 rows x 4 columns]
+
+Keyword: pho | hits: 2147
+      id  ...                                             answer
+16    17  ...  Trình bày đơn giản nhưng gọn gàng, các cuốn bá...
+24    25  ...  Phục vụ theo kiểu suất ăn cá nhân với đĩa bánh...
+51    52  ...  B. Khác ở loại sợi và phong cách nước dùng - C...
+65    66  ...  Cách trình bày đơn giản trên đĩa trắng với nướ...
+160  161  ...  Nhìn từ cách trình bày và thành phần, món này ...
+
+[5 rows x 4 columns]
+
+Keyword: bún | hits: 26983
+    id  ...                                             answer
+30  31  ...  Đây có thể là món bún bò Huế hoặc một loại bún...
+31  32  ...  Thuộc nhóm món bún nước – món ăn có nước dùng ...
+32  33  ...  B. Miền Trung - Nước dùng có màu đỏ cam đặc tr...
+34  35  ...  Có vẻ là món ẩm thực nội địa Việt Nam, dựa trê...
+36  37  ...  Tô lớn với đầy đủ bún, thịt, nước dùng và rau ...
+
+[5 rows x 4 columns]
+
+Keyword: gà | hits: 2422
+    id  ...                                             answer
+16  17  ...  Trình bày đơn giản nhưng gọn gàng, các cuốn bá...
+35  36  ...  Đây là món ăn phổ biến dùng cho bữa sáng hoặc ...
+47  48  ...  Món được bày trí khá hoàn chỉnh với nhiều loại...
+72  73  ...  Lớp bánh bên ngoài trông mềm, mịn, mỏng và hơi...
+81  82  ...  Hình dáng cuộn tròn gọn gàng với nhân bên tron...
+
+[5 rows x 4 columns]
+
+Keyword: khoai | hits: 137
+        id  ...                                             answer
+206    207  ...  Dễ nhầm với bánh bò hấp (có cấu trúc rỗ tương ...
+213    214  ...  C. Bánh khoai mì nướng - Nhìn lướt bên ngoài, ...
+3568  3569  ...  Có thể thay đổi hương liệu như thêm lá dứa, kh...
+3579  3580  ...  Dễ bị nhầm với bánh bò hấp (có cấu trúc tổ ong...
+5272  5273  ...  Có, bằng cách thay nhân tôm thịt bằng nhân nấm...
+
+[5 rows x 4 columns]
+
+Keyword: tôm | hits: 1661
+      id  ...                                             answer
+71    72  ...  Có, nhân có thể thay đổi thành tôm, trứng, nấm...
+597  598  ...  Có thể thay nhân bằng tôm, hải sản, hoặc trứng...
+632  633  ...  Có thể thêm ốc, huyết, giò, hoặc chả cá tùy th...
+647  648  ...  Có, khó xác định chắc chắn liệu trong tô có hu...
+650  651  ...  Không thể xác định hương vị chính xác, mức độ ...
+
+[5 rows x 4 columns]
+
+Keyword: bánh bao | hits: 97
+        id  ...                                             answer
+929    930  ...  Không, nhân bên trong bị lớp bánh bao phủ nên ...
+4550  4551  ...  Có thể là bánh bao chiên hoặc bánh rán nhân mặ...
+4571  4572  ...  Không nhìn thấy phần nhân bên trong và không c...
+7367  7368  ...  Có thể là bánh bao chiên hoặc bánh rán nhân mặ...
+7551  7552  ...  Có thể là bánh bao chiên hoặc bánh rán nhân mặ...
+
+[5 rows x 4 columns]

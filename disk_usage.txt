@@ -1,0 +1,13 @@
+Filesystem      Size  Used Avail Use% Mounted on
+overlay         100G   23G   78G  23% /
+tmpfs            64M     0   64M   0% /dev
+shm             7.0G     0  7.0G   0% /dev/shm
+/dev/nvme0n1p3  900G  340G  561G  38% /etc/hosts
+tmpfs           3.2G  1.7M  3.2G   1% /run/nvidia-persistenced/socket
+tmpfs            16G     0   16G   0% /sys/fs/cgroup
+/dev/nvme0n1p2   31G   20G  8.7G  70% /usr/bin/nvidia-smi
+tmpfs            16G     0   16G   0% /proc/asound
+tmpfs            16G     0   16G   0% /proc/acpi
+tmpfs            16G     0   16G   0% /proc/scsi
+tmpfs            16G     0   16G   0% /sys/firmware
+tmpfs            16G     0   16G   0% /sys/devices/virtual/powercap
