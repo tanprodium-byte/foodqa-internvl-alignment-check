@@ -50,7 +50,7 @@ def main() -> None:
     run_name = args.run_name or config.get("run_name") or output_path.stem
     hf_repo_id = args.hf_repo_id or config.get("hf_repo_id")
     hf_repo_type = args.hf_repo_type or config.get("hf_repo_type", "dataset")
-    hf_keep_checkpoints = args.hf_keep_checkpoints or bool(config.get("hf_keep_checkpoints", False))
+    hf_keep_checkpoints = args.hf_keep_checkpoints
     hf_prune_remote = args.hf_prune_remote or bool(config.get("hf_prune_remote", False))
 
     if args.hf_dry_run:
