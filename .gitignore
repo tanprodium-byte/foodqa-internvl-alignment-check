@@ -30,7 +30,12 @@ checkpoints/
 # Large runtime artifacts
 wandb/
 logs/
+outputs/*.jsonl
+outputs/*.csv
+outputs/*.xlsx
+scripts/run_task.py
 
 # Local/system files
 .DS_Store
 Thumbs.db
+outputs/*.json
